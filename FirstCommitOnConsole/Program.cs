@@ -11,6 +11,8 @@ namespace FirstCommitOnConsole
         static void Main(string[] args)
         {
             Console.WriteLine("First commit on GitHub ^_^");
+            Console.WriteLine("Some changes");
+            Console.WriteLine("Second Commit Wooow O_O");
         }
     }
 }
