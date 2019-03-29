@@ -12,7 +12,7 @@ namespace FirstCommitOnConsole
         {
             Console.WriteLine("First commit on GitHub ^_^");
             Console.WriteLine("Some changes");
-            Console.WriteLine("Second Commit Wooow O_O");
+            Console.WriteLine("Second Commit Wooow");
         }
     }
 }
